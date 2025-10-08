@@ -14,9 +14,9 @@
         "url": "https://raw.githubusercontent.com/NikolayMurha/kicad-repository/main/packages.json"
     },
     "resources": {
-        "sha256": "REPLACE_ME",
-        "update_time_utc": "REPLACE_ME",
-        "update_timestamp": 0,
+        "sha256": "d999500edab40bb1d1d57183e6ffdbc97364873f2535840b7599bb80a6d37407",
+        "update_time_utc": "2025-10-08 12:26:42",
+        "update_timestamp": 1759915602,
         "url": "https://raw.githubusercontent.com/NikolayMurha/kicad-repository/main/resources.zip"
     }
 }
