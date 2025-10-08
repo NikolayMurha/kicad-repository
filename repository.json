@@ -8,9 +8,9 @@
     },
     "name": "NikolayMurha KiCad repository",
     "packages": {
-        "sha256": "3e0b73b67b41596ea1ea99b4abc9b5a2fdcb032a1d918d2cf81f3b22a479f90d",
-        "update_time_utc": "2025-09-26 12:58:05",
-        "update_timestamp": 1758891485,
+        "sha256": "292e4ca77edfbe421051d99b79776ca477fc766c84febb9a55b6de5bb9cb33cd",
+        "update_time_utc": "2025-10-08 12:00:23",
+        "update_timestamp": 1759924823,
         "url": "https://raw.githubusercontent.com/NikolayMurha/kicad-repository/main/packages.json"
     },
     "resources": {
