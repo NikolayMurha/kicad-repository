@@ -41,6 +41,15 @@
                     "download_size": 110197,
                     "download_url": "https://github.com/NikolayMurha/kicad-jlcpcb-importer/releases/download/2025.11.07/KiCAD-PCM-2025.11.07.zip",
                     "install_size": 304319
+                },
+                {
+                    "version": "2026.08.02",
+                    "status": "testing",
+                    "kicad_version": "6.0",
+                    "download_sha256": "0d96d9d21bee031007121344ca850840ee2b8a29b3ff0afb46792fc9797bc5f4",
+                    "download_size": 6182755,
+                    "download_url": "https://github.com/NikolayMurha/kicad-jlcpcb-importer/releases/download/2026.08.02/KiCAD-PCM-2026.08.02.zip",
+                    "install_size": 7205745
                 }
             ]
         }
